@@ -1,0 +1,33 @@
+{
+  "name": "master-react",
+  "version": "1.0.0",
+  "description": "1% Better Everyday",
+  "keywords": [
+    "React",
+    "mastery"
+  ],
+  "homepage": "https://github.com/Man0jkumar3010/master-react#readme",
+  "bugs": {
+    "url": "https://github.com/Man0jkumar3010/master-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Man0jkumar3010/master-react.git"
+  },
+  "license": "ISC",
+  "author": "Manojkumar R",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  },
+    "browserslist":[
+      "last 2 versions"
+    ]
+}
